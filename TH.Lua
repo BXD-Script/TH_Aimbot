@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://prometheus.bonkhub.online/raw/c3992c29cd0145d0"))()
+loadstring(game:HttpGet("https://prometheus.bonkhub.online/raw/86b8c92d042299c9"))()
